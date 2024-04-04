@@ -73,6 +73,7 @@ For example, if you want to set the form URL to `http://localhost/project1/form.
 
 ```php
 $formUrl = "http://localhost/project1/form.php";
+```
 ## Additional Notes
 
 - Make sure XAMPP's Apache and MySQL services are running before accessing your project.
